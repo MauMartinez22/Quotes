@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+ul li{
+  list-style: none;
+  margin-bottom: 1rem ;
+}
+
+.color-blue{
+  color: blue;
+}
+
+.App{
+  background-color: rgb(193, 193, 193);
+  width: max-content;
+  display: flex;
+  justify-content: center;
+  border-radius: 15px;
+  margin: 5rem;
+  padding:5rem;
+
+}
